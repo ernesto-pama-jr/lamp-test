@@ -1,3 +1,3 @@
 <?php
-echo "This was build using Jenkins";
+echo "This was deployed using Jenkins";
 
